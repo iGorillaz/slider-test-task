@@ -1,0 +1,15 @@
+.coin {
+	display: flex;
+	margin: 5px;
+ }
+ 
+ .coin:hover {
+	cursor: pointer;
+	font-weight: 600;
+ }
+ 
+ .selected {
+ color: black;
+ font-weight: 600;
+ }
+ 

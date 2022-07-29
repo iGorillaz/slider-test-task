@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  position: relative;
+  overflow: hidden;
+  font-family: "Inter";
+  color: gray;
+}
+
+.btn {
+  border: none;
+  background-color: none;
+  margin: 11px;
+  font-size: 28px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.text {
+  font-weight: 600;
+}
