@@ -1,3 +1,4 @@
+<div align="center">
 # Pure Dependencies React Slider
 
 ## Task:
@@ -13,3 +14,7 @@ in useState - store the active element.
 ## Used technology
 
 ##### React
+
+### B&D
+https://react-pure-dependencies-slider.netlify.app/
+</div>
